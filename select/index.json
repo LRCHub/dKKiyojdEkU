@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Mad World",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-22T07:20:39.860371Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mad World",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Puddles Pity Party & Haley Reinhart",
+      "has_synced": true,
+      "path": "select/01_Mad_World_Scott_Bradlee's_Postmodern_Jukebox_feat._Puddles_Pity_Party_&_Haley_Reinhart.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mad World",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/02_Mad_World_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mad World",
+      "artist": "Tears For Fears",
+      "has_synced": true,
+      "path": "select/03_Mad_World_Tears_For_Fears.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mad World",
+      "artist": "Tears For Fears",
+      "has_synced": true,
+      "path": "select/04_Mad_World_Tears_For_Fears.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mad World - World Remix",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/05_Mad_World_-_World_Remix_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mad World",
+      "artist": "Gary Jules",
+      "has_synced": true,
+      "path": "select/06_Mad_World_Gary_Jules.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mad World",
+      "artist": "Krokus",
+      "has_synced": false,
+      "path": "select/07_Mad_World_Krokus.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MAD WORLD",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/08_MAD_WORLD_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mad World",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/09_Mad_World_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mad World (Single Edit)",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/10_Mad_World_(Single_Edit)_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mad World (World Remix)",
+      "artist": "Tears For Fears",
+      "has_synced": true,
+      "path": "select/11_Mad_World_(World_Remix)_Tears_For_Fears.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mad World",
+      "artist": "Corrosion of Conformity",
+      "has_synced": false,
+      "path": "select/12_Mad_World_Corrosion_of_Conformity.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mad World",
+      "artist": "Voidoid",
+      "has_synced": false,
+      "path": "select/13_Mad_World_Voidoid.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mad World",
+      "artist": "Michael Andrews feat. Gary Jules",
+      "has_synced": true,
+      "path": "select/14_Mad_World_Michael_Andrews_feat._Gary_Jules.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mad World - International Version",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/15_Mad_World_-_International_Version_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mad World (International Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/16_Mad_World_(International_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mad World",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Mad_World_ONE_OK_ROCK.txt"
+    }
+  ]
+}
